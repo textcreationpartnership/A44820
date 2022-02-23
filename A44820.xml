@@ -1,0 +1,1344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Agathocles the Sicilian usurper· A poem·</title>
+            <author>Hoy, Thomas, 1659-1718?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44820</idno>
+            <idno type="STC">Wing H3199</idno>
+            <idno type="STC">ESTC R200830</idno>
+            <idno type="EEBO-CITATION">99834755</idno>
+            <idno type="PROQUEST">99834755</idno>
+            <idno type="VID">39268</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39268)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1851:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Agathocles the Sicilian usurper· A poem·</title>
+                  <author>Hoy, Thomas, 1659-1718?</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J.C. and are to be sold by Walter Davis in Amen Corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Thomas Hoy.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39268:1"/>
+            <pb facs="tcp:39268:1" rendition="simple:additions"/>
+            <p>AGATHOCLES THE Sicilian USURPER. A POEM.</p>
+            <q>
+               <l>—Mutato Nomine, de Te</l>
+               <l>Fabula narratur.—</l>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>J. C.</hi> and are to be ſold by <hi>Walter Davis</hi> in <hi>Amen Corner,</hi> 1683.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:39268:2" rendition="simple:additions"/>
+            <pb facs="tcp:39268:2"/>
+            <head>The Preface.</head>
+            <p>
+               <hi>IF a Poem have a Genius</hi> (ſays the Incomparable Au<g ref="char:EOLhyphen"/>thor, in the Preface of <hi>Abſalom and Achitophel) it forces it's own Reception in the World.</hi> The Max<g ref="char:EOLhyphen"/>ime however generally true in the Theory, yet we find but very few Inſtances wherein it holds, in Practice. And the Reaſon may be this; That <hi>Genius</hi> he intends there, that Irreſiſtible Charming <hi>Genius</hi> is ſcarce any where to be met with, but in his own <hi>Abſalom,</hi> and ſome other of His Works. The Event in that was ſuitable to his Praeſages, becauſe they were founded on an <g ref="char:V">Ʋ</g>nerring Impartial Judgment; but He that writes after him with the ſame Expectations, I am afraid, the Partiality, and Weakneſs of his Judgement will too ſoon appear in the Event. 'Tis not therefore with any ſuch vain Thoughts that the following Poem ventures into the World; The Honeſty it carries in the Deſign is all it has to plead for it ſelf, and in that particular, (if I may ſay it without Of<g ref="char:EOLhyphen"/>fence) it is very loth to yield even to <hi>the Beſt Poem that ever was writ.</hi>
+            </p>
+            <p>Therefore without endeavouring at farther Apologies, I ſhall only trouble the Reader with a ſhort Account of the Poem. If any deſire a particular Relation of the Life of the <hi>Sicilian Ty<g ref="char:EOLhyphen"/>rant,</hi> I would refer them to <hi>Dr. Perrinchiefe</hi> his <hi>Hiſtory of Agathocles.</hi> But for the Perſon Characteriz'd under my <hi>Uſurper,</hi> it is ſufficient for my purpoſe, if he contradict not the <hi>Sicilian</hi> Story, tho, it may be the Parallel is not exactly drawn. I ſuppoſe there will need no Key to decipher him, ſince thoſe Men, who have ſo near outliv'd the <hi>Act for Re<g ref="char:EOLhyphen"/>nouncing the Solemn League and Covenant</hi> cannot but remember Whom their Rebellious Practiſes, at laſt, advanced to the enſlaving <hi>the Good People of England.</hi> I muſt con<g ref="char:EOLhyphen"/>feſs their renewing lately the Old Methods would make one believe they had forgot how miſerably they labour'd under the ſad Conſequences of ſuch Meaſures. Examples are commonly ſaid to leave deeper Impreſſions on the Minds of Men, then Praecepts; and thoſe Examples have bin eſteemed fitteſt for that purpoſe, which are drawn from Hiſtories not too remote from the Perſons to whom they are directed. If ſo; the enſu<g ref="char:EOLhyphen"/>ing Poem may promiſe it ſelf ſome ſucceſs, which affords an Ex<g ref="char:EOLhyphen"/>ample
+<pb facs="tcp:39268:3"/>
+ſo far from being too diſtant from, that, even yet the Characters of his Tyrannies are too frequently to be read a<g ref="char:EOLhyphen"/>mong us.</p>
+            <p>To have made my <hi>Uſurper</hi> die in his Bed had bin too no<g ref="char:EOLhyphen"/>torious a Treſpaſs upon the <hi>Sicilian</hi> Hiſtory, which tells us that He was Poiſoned by <hi>Maenon</hi> a Malecontent. And ſome have bin of the Opinion that our Late <hi>Agathocles</hi> made his laſt <hi>Exit</hi> the ſame way. What ground they might have for that Opinion is not my Bus'neſs here to enquire; but for the former Reaſon, and to avoid a Soleciſm in Poetry, I have taken it for granted. And tho my <hi>Maenon</hi> might, poſſibly, not be the Man, who did this Nation that Good Office, yet He was One, who with the greateſt probability might be preſum'd to have don it, or procur'd it to be don.</p>
+            <p>Here the Poem might have concluded; but who could have declined the Honour of bringing the Excellent HIERO to his <g ref="char:V">Ʋ</g>ndoubted Right and Crown? For my part, I could almoſt as eaſily have forgiven the preſent Diſturbers of his Peace, as my own Self, had I bin guilty of an Omiſſion ſo near approach<g ref="char:EOLhyphen"/>ing to an Indirect kind of Treaſon. I am very ſenſible that I come Infinitely ſhort of a juſt Repreſentation of that Happy Time, but, I hope, it derogates not from the Pleaſures of Hea<g ref="char:EOLhyphen"/>ven, that they are ſuch as cannot be expreſſed by groveling Men; and it is ſome Excuſe for us, that upon ſuch Occaſions our Words are too little for our Conceptions, as well as our Conceptions for thoſe <hi>Tranſcendent</hi> Things.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:39268:3"/>
+            <head>AGATHOCLES THE Sicilian Uſurper. A POEM.</head>
+            <lg>
+               <l>UNhappy Man! whom curſt without Redreſs,</l>
+               <l>It ſeems beyond the Power of Heaven to bleſs.</l>
+               <l>Not that, oppreſt with charge, it's forct to ſpare;</l>
+               <l>Or that It looks on Man not worth the Care</l>
+               <l>No, Its own Rights and Properties It gives,</l>
+               <l>But Man defeats his Great Prerogatives:</l>
+               <l>Of all things, to Himſelf, he only owes</l>
+               <l>The Ill he ſuffers, or the Good he does.</l>
+               <l>Curſt in that fatal Liberty of Will,</l>
+               <l>Curſt in free Choice, becauſe ſtill chuſing Ill.</l>
+            </lg>
+            <lg>
+               <l>T' our Great firſt Parent Monarchy was given,</l>
+               <l>A Sacred Model from the State of Heaven,</l>
+               <l>Where One Bleſt King fills the Eternal Throne,</l>
+               <l>And with a Father's Love rules All, alone.</l>
+               <l>That Love, entailing Right on Birth, did place</l>
+               <l>Succeſſion in the Line of ſuch a Race,</l>
+               <l>For Government did carefully provide,</l>
+               <l>And all Defects in Mortal Power ſupply'd.</l>
+               <l>Thus, for a while, Mankind receiv'd its Lord,</l>
+               <l>In peace One King obey'd, One God ador'd.</l>
+               <l>Till that dark Principle, his Will, did blind</l>
+               <l>The nobler judging Faculty, his Mind.</l>
+               <l>
+                  <pb n="2" facs="tcp:39268:4"/>Then with blind Zeal to many Gods he bow'd,</l>
+               <l>Then many Lords enſlav'd th' Unthinking Crowd,</l>
+               <l>Monſters, and Dogs uſurp'd the Throne, and Sky,</l>
+               <l>As fear would King, or Folly Deify.</l>
+               <l>Then flow'd all Ills, which naturally ſpring</l>
+               <l>From debaucht notions of a God or King;</l>
+               <l>For God, and King, eſſentially, are One,</l>
+               <l>Many, in each, always implying None.</l>
+               <l>But now they rue the Plagues their folly brought,</l>
+               <l>(A purchaſe juſt, by change, and raſhneſs bought,)</l>
+               <l>The Plagues of all the Modes of Government</l>
+               <l>Ambition, or Confuſion can invent.</l>
+               <l>In vain, for eaſe, they change each tottering frame,</l>
+               <l>The Form may change; the Miſery's the ſame,</l>
+               <l>Still graſping at, but never finding Reſt,</l>
+               <l>Unfixt, and but half ſatisfy'd at beſt.</l>
+               <l>'Tis juſt we greet the Glorious Sun with praiſe,</l>
+               <l>Who feel th' Influence of his kinder Rayes;</l>
+               <l>To whoſe bleſt Heat, and noble Light we owe,</l>
+               <l>The daily Comforts of the World below;</l>
+               <l>But 'twere unfit we ſhould abandon Light,</l>
+               <l>And on each other prey, like Beaſts, by night,</l>
+               <l>Becauſe ſome Earth-born Comets then appear,</l>
+               <l>Amaze the Rout, and ſeem to Govern here.</l>
+               <l>Thoſe dang'rous Objects dazle Vulgar eyes,</l>
+               <l>Unable to impoſe upon the Wiſe,</l>
+               <l>Who ſee Death's ghaſtly face thro the too thin Diſguiſe.</l>
+               <l>They ſee the Plagues they ſcatter thro the Air,</l>
+               <l>And find the ſeeds of ſome Impending War.</l>
+               <l>'Twere no leſs madneſs, for redreſs, to fly</l>
+               <l>To the weak helps of <hi>Ignes Fatui,</hi>
+               </l>
+               <l>The lower Region's baſe Democracy.</l>
+               <l>Some ſigns of Men, ſome ſhapes of walking Clay,</l>
+               <l>Inſenſible o'th' benefit of Day,</l>
+               <l>May leave the way when thoſe falſe Lights appear,</l>
+               <l>
+                  <pb n="3" facs="tcp:39268:4" rendition="simple:additions"/>In hopes of Safety and Refection near.</l>
+               <l>But, left in danger by th' expireing Light,</l>
+               <l>Thro Fenns, and Boggs they wander all the night,</l>
+               <l>Till Day's return their drooping Spirits chears,</l>
+               <l>Diſplays their Dangers, and diſpells their Fears.</l>
+               <l>And wretches, by ſuch Vapours near undone,</l>
+               <l>This glory add to the Returning Sun,</l>
+               <l>His preſence ends the mazes they have run.</l>
+            </lg>
+            <lg>
+               <l>Witneſs <hi>Sicilia</hi> to the truth I tell,</l>
+               <l>(<hi>Sicilia</hi> taught, by ſad experience, well!)</l>
+               <l>Who all the yokes of Tyranny has worn,</l>
+               <l>Waſted by Wars, by ſtriving Factions torn,</l>
+               <l>Tir'd out with fruitleſs Change, and forct, at laſt,</l>
+               <l>To kneel to Injur'd Monarchy for reſt.</l>
+            </lg>
+            <lg>
+               <l>Againſt the Coaſts of fruitful <hi>Italy,</hi>
+               </l>
+               <l>The Pride, and Envy of the Mid-land Sea,</l>
+               <l>The deareſt pledge of <hi>Nereus's</hi> beauteous Store,</l>
+               <l>The fair <hi>Sicilia</hi> ſpreads her lovely Shoar.</l>
+               <l>A narrow <hi>Iſthmus</hi> (fame tells,) join'd the Bride</l>
+               <l>Of old to her Rich <hi>Latian</hi> Husband's ſide,</l>
+               <l>Torn off, and raviſht ſince by amorous Force</l>
+               <l>Too rough by ſlow advances to divorce.</l>
+               <l>Now in ſoft watry folds it claſps the Place,</l>
+               <l>With endleſs kiſſes, and a Dear embrace.</l>
+               <l>For Capes, and form Trian'glar known of old,</l>
+               <l>But more for temperate Clime, and fruitful Mould.</l>
+               <l>The healthful Air does Lifes ſhort Span prolong,</l>
+               <l>And the rich Soil makes it ſeem always Young.</l>
+               <l>For Grain excelling neighbouring Parts ſo far,</l>
+               <l>Their Bards then ſang 'twas <hi>Ceres's</hi> only care.</l>
+               <l>Much fatal Steel it's guilty entrails hold,</l>
+               <l>Much Tinn, and ſome few Veines of treach'rous Gold.</l>
+               <l>From <hi>Spain,</hi> at firſt, the old <hi>Sicani</hi> came,</l>
+               <l>
+                  <pb n="4" facs="tcp:39268:5"/>From them the Iſland took it's ancient Name.</l>
+               <l>Theſe were a pleaſant, Courteous, Valiant kind,</l>
+               <l>To gueſts innately Sweet, but not Refin'd,</l>
+               <l>With noble Anger could reſent a wrong,</l>
+               <l>But ſcorn'd to hoord Revenge, or Malice long.</l>
+               <l>Tender of Right, yet did not Change admire,</l>
+               <l>Firm to their Prince, and to their Friend entire.</l>
+               <l>Brave; but too weak to foyl the <hi>Roman</hi> Band,</l>
+               <l>Whom fame of wealth had brought t'invade the Land.</l>
+               <l>With eaſe the warlike <hi>Siculi</hi> o're came,</l>
+               <l>Poſſeſt the Land, and once more chang'd the Name.</l>
+               <l>Next theſe ſome Colonies of <hi>Grecians</hi> come,</l>
+               <l>Whoſe o're ſtockt Hives afford no room at home.</l>
+               <l>Theſe new Intruders the <hi>Sicani</hi> drive</l>
+               <l>T' a Weſtern Cape, 'mong Hills and Woods to live.</l>
+               <l>The Grecian Arts, and Genius they tranſplant,</l>
+               <l>The only ſeeds the happy Land did want.</l>
+               <l>But Learning quickly ran o're all the I'le,</l>
+               <l>Suiting the temper of the fruitful Soil.</l>
+               <l>Each age that flow'd did conſtantly improve,</l>
+               <l>And Arts ſtill found a more peculiar Love.</l>
+               <l>With zeal they all the mighty work purſue,</l>
+               <l>Cheriſh the Old, and propagate the New.</l>
+               <l>Thus, by Degrees, they to that <hi>Ac<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me</hi> came,</l>
+               <l>Might juſtly challenge all the breath of Fame.</l>
+               <l>Their Wit Eternal, as their Godlike mind,</l>
+               <l>Without all Affectation moſt Refin'd,</l>
+               <l>In real Knowledge paſſing all Mankind.</l>
+            </lg>
+            <lg>
+               <l>Lov'd Race! whom Heaven and Nature ſtrove to bleſs,</l>
+               <l>With th' utmoſt ſtretch of Human happineſs;</l>
+               <l>But fate, which bore Eternal ſpight to Man,</l>
+               <l>Left out the faireſt Link of all the Golden Chain.</l>
+               <l>The noble Link of Conſtancy they need,</l>
+               <l>Of firm Adherence to their lawful Head.</l>
+               <l>That only Bleſſing added to their ſtore,</l>
+               <l>
+                  <pb n="5" facs="tcp:39268:5"/>The fates could grant, and they could wiſh no more,</l>
+               <l>Yet Kings they had, (and might have ſtill bin bleſt,)</l>
+               <l>Fortune in War, and Wealth in Peace poſſeſt;</l>
+               <l>The warlike <hi>Gelo,</hi> and Good <hi>Hiero's</hi> Name</l>
+               <l>Had left ſome laſting footſteps of their Fame.</l>
+               <l>But ſtill the Compound <hi>Roman-Grecian</hi> Race</l>
+               <l>Retain'd the Humours of their former Place.</l>
+               <l>The firſt Reſentments that provoke their Cries</l>
+               <l>Are Heavy Loans, and frequent Subſidies,</l>
+               <l>Purſuing next with an Implicite Hate</l>
+               <l>The Crowns beſt Friends, and Miniſters of State.</l>
+               <l>Hard fate of Stateſmen, who forgo their Eaſe</l>
+               <l>For Publique Safety, yet ſo ſeldom pleaſe!</l>
+               <l>They rule Inferior Mankind for their Share,</l>
+               <l>And eaſe the Gods of more then half the Care;</l>
+               <l>While Crowds profanely quarrel with their Good,</l>
+               <l>And Providence deny, becauſe not underſtood.</l>
+               <l>Led by a Traiterous Mungril Kind of <hi>Flamen,</hi>
+               </l>
+               <l>A wretched Medly betwixt Prieſt and Layman!</l>
+               <l>Somewhat from each the Pulpit <hi>Zanys</hi> ſtole</l>
+               <l>To dreſs their Pride and Luſt in Ridicule.</l>
+               <l>Theſe Holy Men, purſuing Earthly Ends,</l>
+               <l>Taught, None could be the Prince and People's Friends;</l>
+               <l>That precious Liberty, and Wealthy Kings</l>
+               <l>Were mere Repugnant, Inconſiſtent Things.</l>
+               <l>And more to ſmooth the Blaſphemy's they ſaid,</l>
+               <l>The Gods were parties in their Treaſons made.</l>
+               <l>Bleſt, Never-failing, Specious Deſign,</l>
+               <l>In common Intereſt Heaven and Earth to join!</l>
+               <l>With theſe conſpir'd the Throng of Libellers,</l>
+               <l>Their Daily Bread was Jealouſies, and Fears,</l>
+               <l>And ſwelling with the ill-digeſted Load</l>
+               <l>The pois'nous Vernim caſt their Filth abroad.</l>
+               <l>Secure themſelves in no Eſtate and Name,</l>
+               <l>They vallu'd no man's Perſon, or his Fame;</l>
+               <l>
+                  <pb n="6" facs="tcp:39268:6"/>Till to that height their proſperous Guilt was grown</l>
+               <l>They ſtrove t' eclipſe the Glories of the Crown.</l>
+               <l>Conſcious all hopes of Pardon were foregon,</l>
+               <l>The harden'd Wretches ſinn'd, and ſcribbled on.</l>
+               <l>'Twere endleſs to repeat the loathſome Cries</l>
+               <l>Of daily Letters, Pacquetts, Mercurys;</l>
+               <l>Thro all the Land the catching Venom ſpread,</l>
+               <l>As all, whom Mad Dogs bite, themſelves run Mad;</l>
+               <l>But ableſt Huntſmen, as the eaſy'ſt Cure,</l>
+               <l>Hang the Diſtract, the Kennel to ſecure.</l>
+               <l>Nor muſt we here the Factious Clubs forget,</l>
+               <l>In Cloſe Caball where Treaſon nightly met.</l>
+               <l>Shameleſs She ſate, and naked to each eye,</l>
+               <l>And laid the Maſque of Publique Intereſt by;</l>
+               <l>No more that Name was heard among the Crowd,</l>
+               <l>But baſe Revenge, and private Wrong were Lowd.</l>
+               <l>A numerous huddled Concourſe fill'd the place,</l>
+               <l>Crackt Citizens, and Lawyers in Diſgrace;</l>
+               <l>Vext Courtiers, Officers without Command,</l>
+               <l>Raw Eſquires lately bubbled of their Land.</l>
+               <l>Pleas'd with a Ruban, and a Patriot's Name,</l>
+               <l>The <hi>Boon Garſon,</hi> and Fopp of Bus'neſs came.</l>
+               <l>Honour, and Age alike Indifference met,</l>
+               <l>And Noble Peers with Zealous Joiners ſate.</l>
+               <l>Yet 'twas but fit; all were Mechaniques there,</l>
+               <l>And Publick Good was meaſur'd by their Square.</l>
+               <l>There 'twas reſolv'd, when next the Senate ſate,</l>
+               <l>What Subject was the ripeſt for Debate;</l>
+               <l>What Greivances 'twas proper to preſent;</l>
+               <l>What Limb to lopp next off the Government.</l>
+               <l>And ſtill the more th' Indulgent Scepter gave</l>
+               <l>Theſe Men found greater Reaſon more to crave.</l>
+               <l>Till, by exceſs of Goodneſs quite undon,</l>
+               <l>They levell'd with the Ground the Weaken'd Throne.</l>
+               <l>Uncertain Grandeur, which muſt fall no leſs</l>
+               <l>
+                  <pb n="7" facs="tcp:39268:6"/>If Monarchs are Indulgent, or Oppreſs!</l>
+               <l>Falſe Demagogues into ſuch Failings pry,</l>
+               <l>And founding all the Power in Property,</l>
+               <l>Their Maſter's they depreſs, to raiſe the People's high.</l>
+               <l>Inferring, 'cauſe he gave too much before,</l>
+               <l>For Common Safety He muſt now give more.</l>
+               <l>But, grant, all Power in Property we found,</l>
+               <l>Yet why, from hence, muſt Kingly Power looſe ground:</l>
+               <l>For in the Prince all Property we own,</l>
+               <l>And Subjects are but Tenants to the Crown.</l>
+               <l>Elſe, why of Old did Men Allegeance ſwear,</l>
+               <l>Bound up to <hi>Feods,</hi> and ready Arms to bear.</l>
+               <l>'Tis hard to think <hi>(Well-meaning Men!)</hi> they ſwore,</l>
+               <l>Or paid, to hire what was their Own before.</l>
+               <l>Thus Property in Kings, by Heaven, defin'd,</l>
+               <l>To Subjects, on Conditions, is conſign'd.</l>
+               <l>From whence 'tis plain, in Exigence of State,</l>
+               <l>The People ſhould refund, not King abate;</l>
+               <l>For, if their Property he Dang'rous make,</l>
+               <l>'Tis more then One can give, or t'other take.</l>
+               <l>So Miniſters that err, tho by their Prince's Will,</l>
+               <l>Yet ſuffer Juſtly, 'cauſe He cann't do Ill.</l>
+            </lg>
+            <lg>
+               <l>But now 'twas time theſe Artiſts ſhould produce</l>
+               <l>Their boaſted Secret of ſuch Sov'raign uſe;</l>
+               <l>And <hi>Liberty,</hi> prepar'd to the Projectors will,</l>
+               <l>Was guilded for the Univerſal Pill.</l>
+               <l>No Cheat ſo priz'd, ſo eaſy to obtrude,</l>
+               <l>Do <hi>Charlatans</hi> impoſe upon the Multitude.</l>
+               <l>The Griefe which made the People firſt complain,</l>
+               <l>Was an exceſs of Blood which craz'd their Brain;</l>
+               <l>So theſe Phyſicians, by Long Warrs, thought good</l>
+               <l>To cool the Feaver of their Patient's Blood.</l>
+               <l>And more their Reputation to aſſure,</l>
+               <l>Turn'd the Diſeaſe it ſelf into the Cure;</l>
+               <l>
+                  <pb n="8" facs="tcp:39268:7" rendition="simple:additions"/>Their very Sickneſs was but Fancy'd Pain,</l>
+               <l>And Fancy'd Eaſe all they were like to gain.</l>
+               <l>All Old Imaginary Fears were dead,</l>
+               <l>Good Real New Ones reigning in their ſtead.</l>
+               <l>The Armys, which e'rlong the Earth did ſhield,</l>
+               <l>Like <hi>Jaſon's</hi> Harveſt, cover'd all the Field;</l>
+               <l>And Troops, which lately hover'd in the Air,</l>
+               <l>Lodg'd in Free Winter Quarters ev'ry where.</l>
+               <l>Thus all things alter'd for the better ſtill,</l>
+               <l>'Cauſe 'tis more Manly to fear Real Ill.</l>
+            </lg>
+            <lg>
+               <l>The Mart for <hi>Liberty</hi> then moſt in uſe,</l>
+               <l>Grown Rich by th' Trade, was ancient <hi>Syracuſe.</hi>
+               </l>
+               <l>And 'twas but juſt They ſhould engroſs the Gain,</l>
+               <l>Who ventur'd moſt the Secret to obtain!</l>
+               <l>The <hi>Syracuſans</hi> were a Reſtleſs Race,</l>
+               <l>In War Dejected, Turbulent in Peace.</l>
+               <l>Still Dreading, and ſtill Doating after Fears,</l>
+               <l>Fond of Sham Plots, and New Diſcoverers.</l>
+               <l>Theſe made them arm on ev'ry ſlight Pretence,</l>
+               <l>And Chain their Streets, and boaſt their Strong Defence.</l>
+               <l>Their Growth of Buildings, and ſtill Changing Tide,</l>
+               <l>Expreſt their Conſtancy, and Want of Pride.</l>
+               <l>An Hard-mouth'd Beaſt, for ſlacken'd Raines unfitt,</l>
+               <l>And muſt be menag'd with the Spur, and Bitt.</l>
+               <l>Faction, and Noiſe now made their Magiſtrates,</l>
+               <l>And want of Worth was Title to their Seats.</l>
+               <l>To chooſe their <hi>Praetor,</hi> as before, in Courſe,</l>
+               <l>Deſtroy'd the People's Choice, and, what was worſe,</l>
+               <l>Reſembled an Hereditary Thing,</l>
+               <l>And lookt too like the Hated ſtyle of King,</l>
+               <l>If, ſpight of Arts to gain the Major Vote,</l>
+               <l>Merit, and Right ſometimes the <hi>Faſces</hi> got,</l>
+               <l>The Suburb Rout, in Droves, came roaring down,</l>
+               <l>While Mid-night Riots fill'd th' affrighted Town.</l>
+               <l>Bone-fires in mere Contempt of Power were made,</l>
+               <l>
+                  <pb n="9" facs="tcp:39268:7" rendition="simple:additions"/>And Barefac't Villains 'gainſt the Good inveigh'd.</l>
+               <l>Bone-fires the Emblems of the People's Rage,</l>
+               <l>Which Puppets Sacrific'd a while aſſwage.</l>
+               <l>May Heaven no Dearer Sacrifice require,</l>
+               <l>May their Offence among thoſe Flames expire!</l>
+               <l>But God too farr Provok'd revenges Fire by Fire!</l>
+               <l>The Weſtern Town was call'd <hi>Neapolis,</hi>
+               </l>
+               <l>It ſelf a City, tho but part of this.</l>
+               <l>There, while a Senate was, the Members met,</l>
+               <l>Bold without Raſhneſs, Active without Heat.</l>
+               <l>Their willing Duty ſtill ſupply'd the Throne,</l>
+               <l>True to the ancient Splendour of the Crown.</l>
+               <l>Their pious Care b' Expedients would unite</l>
+               <l>The Subject's Safety, to the Prince's Right.</l>
+               <l>No men ſo often, or ſo juſtly bleſt,</l>
+               <l>The trueſt Ballance, and the Faireſt Teſt,</l>
+               <l>Of Private Good, and Publick Intereſt.</l>
+               <l>The Bulwark of the Nation, and the Law,</l>
+               <l>To ſhelter Loyalty, and Treaſon aw.</l>
+               <l>But theſe had bin! —Then a packt Senate ſate,</l>
+               <l>Of Fools, and Knaves to modell the new State.</l>
+               <l>A Glorious Work, and like to take effect,</l>
+               <l>Where ſuch Choice Tools, ſuch Faithful Workmen act!</l>
+               <l>The Nobles were debarr'd their Ancient Right,</l>
+               <l>The Houſe was purg'd, the Good excluded quite;</l>
+               <l>(What Wonders might theſe Men deſpair to do!)</l>
+               <l>The Moſt run down, out-voted by the Few.</l>
+               <l>Thoſe who were left could only repreſent</l>
+               <l>The Droſſe, and Poor Remaines of Government.</l>
+               <l>Religion, Liberty, and Law were now</l>
+               <l>Hard Words, they did not, or they would not know.</l>
+               <l>The Army was the only Bugg they fear'd,</l>
+               <l>And 'twas reſolv'd that Grievance ſhould be clear'd.</l>
+               <l>This made the Swordſman frett, and <hi>Hero</hi> frown,</l>
+               <l>To be ſo baffled by the Lazy Gown.</l>
+               <l>
+                  <pb n="10" facs="tcp:39268:8" rendition="simple:additions"/>Had they for this ſubſcrib'd each Canting Clauſe,</l>
+               <l>Eſpous'd the Contradictions of the Cauſe,</l>
+               <l>And fought againſt them, to maintain the Laws?</l>
+               <l>They had their <hi>Adjutators</hi> of their own,</l>
+               <l>And they ſhould vote that Pageant Senate down.</l>
+               <l>The Church <hi>Banditti</hi> too join'd in the Broyl,</l>
+               <l>Griev'd at unequal Dividend of Spoil:</l>
+               <l>Some to the Houſe, more to the Army fled,</l>
+               <l>As Int'reſt byaſs'd, or Perſwaſion led.</l>
+               <l>The doubting Fates lookt on, as at a ſtand</l>
+               <l>Whither the Houſe, or Army to disband.</l>
+            </lg>
+            <lg>
+               <l>Poor Land! from Ill to Ill, ſo baſely toſst,</l>
+               <l>Beyond all proſpect of Recov'ry loſt!</l>
+               <l>So eaſily with Fairy Freedom gull'd,</l>
+               <l>With glittering Tinſel paid for promis'd Gold!</l>
+               <l>Thus our vain Hope we eagerly purſue,</l>
+               <l>Pleas'd with the Gay <hi>Chamaeleon's</hi> painted Hue:</l>
+               <l>And, when the long Purſuit has tir'd us quite,</l>
+               <l>It changes Colour and deceives our Sight!</l>
+               <l>Thus our Craz'd Heads the ſplendid <hi>Species</hi> make,</l>
+               <l>And we for Liberty fine Nothings take;</l>
+               <l>But when we hope t' embrace a Goddeſs there,</l>
+               <l>Our cheated Arms return with Common Air.</l>
+            </lg>
+            <lg>
+               <l>But Oh! my Muſe, thou haſt but trifled yet,</l>
+               <l>But told the Sport, and Raillery of Fate.</l>
+               <l>Prepare thy Tragick moſt expreſſive verſe</l>
+               <l>The Luxurys of Miſery to reherſe.</l>
+               <l>The dreadful Harmony of dying Groans,</l>
+               <l>Robb'd Mothers ſighs, and Widdows piercing Moanes.</l>
+               <l>The Nation ſpoil'd of her dear Youthful Store,</l>
+               <l>Groveling in Duſt, and welt'ring in the Gore.</l>
+               <l>Theſe horrid Scenes, or Crimes tranſcending theſe,</l>
+               <l>Should introduce the Curſt <hi>Agathocles.</hi>
+               </l>
+               <l>
+                  <pb n="11" facs="tcp:39268:8"/>
+                  <hi>Agathocles</hi> whom the juſt Wrath of Fate</l>
+               <l>Had made as Wicked, as his Truſt was Great.</l>
+               <l>His Conſtant Fortune, and Familiar Arts</l>
+               <l>Confirm'd him General in the Souldiers hearts.</l>
+               <l>Yet ſtill h' abus'd th' Advantages he made,</l>
+               <l>The Army's Idoll, and the Senate's Dread.</l>
+               <l>The Servant, and yet Maſter of the Houſe,</l>
+               <l>Whom all would fain Chaſhier, but fear'd to rowze.</l>
+               <l>By their Commiſſion, acting his own Will,</l>
+               <l>Careſſt, and flatter'd tho ſtill doing Ill.</l>
+               <l>The Rod ſtretcht out by Heavens Vindictive Hand.</l>
+               <l>To ſcourge, and humble the Rebellious Land.</l>
+            </lg>
+            <lg>
+               <l>Yet tho this Vapour blaz'd ſo in the Sky,</l>
+               <l>It's Riſe as baſe was, as it's Glory high.</l>
+               <l>While, yet a boy, he learnt the Potters Trade,</l>
+               <l>Each day Diſcov'rys of his Temper made;</l>
+               <l>Unjuſt, and Spightful as Tyrannick Sway,</l>
+               <l>He ſpoil'd the Fineſt of his Fathers Clay.</l>
+               <l>His Birth ſo abject, and his Childhood poor,</l>
+               <l>Why was his Vitious Youth made leſs Obſcure?</l>
+               <l>His Youth too well, too Infamouſly known,</l>
+               <l>Unmatcht in Lewdneſs, and profane Renown.</l>
+               <l>His Luſts diſgrac't the meaneſs of his Trade,</l>
+               <l>And endleſs, unconſtrain'd Debauches made</l>
+               <l>His Life the Good Man's Fear, and Scandal to the Bad.</l>
+               <l>Vertue, an Honourable fair Eſtate,</l>
+               <l>By no Decree entail'd upon the Great,</l>
+               <l>Ev'n by the Meaneſt, and Plebeian breaſt</l>
+               <l>Is oft in Plenty, and Repute poſſeſt.</l>
+               <l>And, Heaven has order'd Things with ſo much Care,</l>
+               <l>The Honeſt Man may ſtill improve his Share.</l>
+               <l>
+                  <hi>Agathocles</hi> abhorr'd that Thrifty Courſe,</l>
+               <l>He daily made his little Portion worſe.</l>
+               <l>But Prodigalls when to an Ebb they'r drain'd,</l>
+               <l>The Shew, and Outſide ſtill muſt be maintain'd:</l>
+               <l>
+                  <pb n="12" facs="tcp:39268:9"/>So He had run his Stock of Vertue out,</l>
+               <l>And now too late began to look about,</l>
+               <l>Yet hop'd, tho he had loſt all Real Sence,</l>
+               <l>To peice his Credit with the Fair Pretence.</l>
+               <l>To outward Veiw a Perfect Change embrac't,</l>
+               <l>With feign'd Regrett for all his Follies paſt.</l>
+               <l>His ſtricter Life, and Morals ſounded more,</l>
+               <l>Drowning the Cries of his Old Faults before.</l>
+               <l>Such Suddain Change but ſeldom well portends,</l>
+               <l>So often taken up for Evil Ends.</l>
+               <l>His End, in all, was only, then to pleaſe</l>
+               <l>A Riſing Faction 'gainſt the Nation's Peace.</l>
+               <l>Who under Zeal do Worldly Gain purſue,</l>
+               <l>And like himſelf were Great Diſſemblers too.</l>
+               <l>Theſe he out-did in their dear Cant, and Tone,</l>
+               <l>And gain'd the Name of Precious Teacher ſoon.</l>
+               <l>Oft he harangu'd of Liberties, and Laws,</l>
+               <l>And made Religion Pimp to ſerve the Cauſe.</l>
+               <l>Yet this Diſguiſe was not put on invain</l>
+               <l>His thriving Godlineſs ſtill turn'd to Gain.</l>
+               <l>The Tears, which he had taught at will to flow,</l>
+               <l>The People's Wrongs made almoſt endleſs now;</l>
+               <l>And freſh Complaints againſt the bravely Great</l>
+               <l>Employ'd his Scurril Wit, and ſawcy Heat.</l>
+               <l>Yet theſe ſure ſigns of Zeal, and Factious Grace</l>
+               <l>Advanc't the Viper to a Member's place:</l>
+               <l>Tho then, ſo low his helpleſs Cenſe was out,</l>
+               <l>He ſcor'd for Stum, and Beef to buy the Rout.</l>
+               <l>From hence, his bold Ambition to promote,</l>
+               <l>He gain'd a Colo'nel's place by Publick Vote.</l>
+               <l>But 'twere unjuſt his Conduct to defame,</l>
+               <l>We hate his Crimes, but envy not his Name.</l>
+               <l>None e're more faithfully perform'd the Truſt,</l>
+               <l>True to his Men, and to his Maſters juſt.</l>
+               <l>As Eminent in Dangers as Command,</l>
+               <l>
+                  <pb n="13" facs="tcp:39268:9" rendition="simple:additions"/>Performing Wonders with his Conqu'ring Hand.</l>
+               <l>Deſigning, Happy, ready of Diſpatch,</l>
+               <l>Quick-ſighted, and yet always on the Watch.</l>
+               <l>Prepar'd each loſt Advantage to retrieve,</l>
+               <l>Or make his Foes for baffled Projects grieve.</l>
+               <l>Oh! had his Soul the Paths of Vertue trod,</l>
+               <l>His Glory had bin Clear, his Fame as Loud!</l>
+               <l>But theſe few Gleams of Good were darken'd ſtill,</l>
+               <l>By interpoſing Pregnant Clouds of Ill.</l>
+               <l>His Reſtleſs Spirit, and Immoderate Mind,</l>
+               <l>Deſpiſing Fame, to Factious Power inclin'd.</l>
+               <l>Nothing could ſlake his feav'riſh Thirſt of Rule,</l>
+               <l>Whom no Sin ſcar'd, no Scruple could controul.</l>
+               <l>His tamp'ring <hi>Genius,</hi> and uneaſy Frame,</l>
+               <l>Fomented Schiſme, and Faction where he came;</l>
+               <l>And ſtill his Tongue ſo well his Cauſe maintain'd,</l>
+               <l>The moſt, by Intereſt, to his ſide, were gain'd.</l>
+               <l>When e're they ſeem'd this Projects to eſpouſe,</l>
+               <l>Nice of no Oaths, and Prodigal of Vows;</l>
+               <l>Which ſtill to ſerve his Ends he duely broke</l>
+               <l>With the ſame eaſe which they firſt were took.</l>
+               <l>By theſe Fair Means all Rivals he diſplac't,</l>
+               <l>And gain'd himſelf the General's Staff at laſt.</l>
+            </lg>
+            <lg>
+               <l>But now his Greatneſs to that pitch was grown</l>
+               <l>He thought no Power ſuperior to his own.</l>
+               <l>No more the Senate curb'd his haughty Mind,</l>
+               <l>His Will got looſe, would be no more confin'd.</l>
+               <l>H' had exercis'd the General's Power before,</l>
+               <l>And ſhould the Office now admit no more</l>
+               <l>'Twere no Addition to his former Store.</l>
+               <l>So he preſum'd the Senate's Rights t' invade,</l>
+               <l>To heal the Breaches by their Factions made:</l>
+               <l>And purg'd the Army as the ready'ſt way,</l>
+               <l>Caſhiering all that clogg'd his Lawleſs Sway.</l>
+               <l>Next a New Set of <hi>Adjutators</hi> packt,</l>
+               <l>
+                  <pb n="14" facs="tcp:39268:10" rendition="simple:additions"/>To make his private Guilt the Army's Act;</l>
+               <l>A Military Senate Modell'd now,</l>
+               <l>T' affront, and keep the Civil Tyrants low.</l>
+               <l>But falſe <hi>Antander</hi> theſe ſo acted ſtill,</l>
+               <l>By unſeen Springs they meet the General's Will.</l>
+               <l>
+                  <hi>Antander</hi> near ally'd to him by Wife,</l>
+               <l>But nearer by the Foulneſs of his Life.</l>
+               <l>So Converſant in Deepeſt Villanies</l>
+               <l>He ſeem'd the Tranſcript of <hi>Agathocles.</hi>
+               </l>
+               <l>With him Baſe <hi>Cerdo,</hi> and Dull <hi>Zythus</hi> join'd.</l>
+               <l>The Brewer's Zeal, &amp; Cobbler's Brain combin'd.</l>
+               <l>And more beneath the Cogniſance of Fame,</l>
+               <l>Whom 'twould debauch the vileſt Rhimes to name.</l>
+               <l>Mean Slaves, by Fortune rais'd of very Sport,</l>
+               <l>The future Minions of a Potter's Court!</l>
+               <l>To theſe, conven'd on ev'ry ſlight Diſguſt,</l>
+               <l>When e're the Houſe croſt his Aſpiring Luſt,</l>
+               <l>The <hi>Crocodile</hi> could weep, and call it Breach of Truſt.</l>
+            </lg>
+            <lg>
+               <l>Now on a Solemn Day the Council met,</l>
+               <l>The Wiſe Aſſembly were all Gravely ſate,</l>
+               <l>When nettled by the late Disbanding Vote</l>
+               <l>The Cous'ner ſighing ſpoke.—</l>
+            </lg>
+            <lg>
+               <l>I grieve, Dear Partners of your General's Fame,</l>
+               <l>Who ſhare his Praiſe, and Suffer in his Shame;</l>
+               <l>I grieve that all the vaſt expence of Blood,</l>
+               <l>The noble Scarrs bought for your Countries Good,</l>
+               <l>The brave Neglect, of Friends, Preferment, 'State,</l>
+               <l>And all that's Dear, deſerves ſo hard a fate;</l>
+               <l>That <hi>Liberty,</hi> for which ſo long you 've fought,</l>
+               <l>Is ſtill Unpurchas'd, tho ſo dearly Bought.</l>
+               <l>Ye muſt have heard; yes, the whole Nation cries</l>
+               <l>To You for Vengeance on <hi>Neapolis;</hi>
+               </l>
+               <l>Ye muſt have heard what Havock they have made,</l>
+               <l>
+                  <pb n="15" facs="tcp:39268:10" rendition="simple:additions"/>Abus'd their Power, and their Truſt betray'd.</l>
+               <l>Ev'n now reſolv'd; Oh! my Diſorders well</l>
+               <l>Speak the loud Wrongs my Tongue is loth to tell!</l>
+               <l>Reſolv'd to tear the Wreaths that crown your Brow,</l>
+               <l>To cropp your ſpreading Lawrels e're they grow;</l>
+               <l>Tho now they ſit beneath that Sacred Shade</l>
+               <l>Secure from Lightning, which they well might dread.</l>
+               <l>Some, by a ſpecious Name, they would releaſe,</l>
+               <l>Condemn'd to ſoften in Inglorious Eaſe;</l>
+               <l>The reſt, as Aids, muſt for <hi>Sardinia</hi> ſayle,</l>
+               <l>Where no One needs for loſt Arrears rebell;</l>
+               <l>Cold, Want, the dang'rous Boggs, and Salvage Foe,</l>
+               <l>Will pay the Debt we all to Nature ow.</l>
+               <l>And is it ſo thoſe Monſters would requite</l>
+               <l>The Gallant Men, who in their Quarrel fight?</l>
+               <l>Have they ſo ſoon forgot the Northern Moor,</l>
+               <l>And You, who could that deſp'erate Field reſtore?</l>
+               <l>Forgot thoſe Swords that durſt ill Fate oppoſe,</l>
+               <l>And forc't her back on your amazed Foes?</l>
+               <l>Then they could own the Glorious Happy Day</l>
+               <l>Due to your Conduct, and well-tim'd Delay.</l>
+               <l>Have they forgot <hi>Meſſana, Gela</hi> Fights,</l>
+               <l>Where you ſupported their declining Rights?</l>
+               <l>In thoſe Diſputes what valiant Numbers bled,</l>
+               <l>What Crowds of Captives were in Triumph led!</l>
+               <l>Miſtaken, Honeſt Men! whoſe greateſt Crime</l>
+               <l>Was thwarting our Hard Maſters e'r the time.</l>
+               <l>Ungrateful Maſters! who for private ends</l>
+               <l>Diſcard the beſt of Servants, beſt of Friends.</l>
+               <l>Have they forgot the numerous Trophies plac't,</l>
+               <l>The Noiſy Hall with Flaggs, and Standards grac't?</l>
+               <l>Long may thoſe Standards flouriſh in that Hall,</l>
+               <l>And plead your Wrongs, and loud for Juſtice call!</l>
+               <l>What, do they ſee, with ſhame, your Glories won,</l>
+               <l>While You ſo much, They have ſo little don?</l>
+               <l>
+                  <pb n="16" facs="tcp:39268:11"/>Or would their Coward and Malicious ſpight</l>
+               <l>Barr us the no great Priviledge, to Fight?</l>
+               <l>Or do they ſo your ſervices regard,</l>
+               <l>They Hate that Worth, which they could ne'r Reward?</l>
+               <l>Poor Men! our Fruitful <hi>Hydra</hi>-Ills encreaſe,</l>
+               <l>For One Head loſt, an Hundred in the Place!</l>
+               <l>When will they learn to limit their Command,</l>
+               <l>Ceaſe to enſlave, and grieve th' Intruſted Land?</l>
+               <l>But ſince ſo bold their Inſolence is grown,</l>
+               <l>'Tis time, at laſt, to let you know your Own.</l>
+               <l>Forgive me, that, ſo long, I did conceal</l>
+               <l>Th' Important Truth, which you would uſe ſo well!</l>
+               <l>Their endleſs Quarrels, and Inveterate Hate</l>
+               <l>Have torn, and broken the <hi>Sicilian</hi> State.</l>
+               <l>The Power ſo oft Transfus'd, ſuch Change has known,</l>
+               <l>The Life, and Spirits are exhal'd, and flown;</l>
+               <l>And 'twould become your great Reforming Name</l>
+               <l>To bleſs the Nation with an Happyer Frame.</l>
+               <l>From things thus ſhatter'd, and to <hi>Chaos</hi> hurl'd</l>
+               <l>'Tis God-like to inform a Beauteous World.</l>
+               <l>When ſome rich Veſſel by long Tempeſts toſt</l>
+               <l>Upon your Shoar, at laſt, is ſplit, and loſt,</l>
+               <l>'Tis all Mens Right, and worth their Noble Pains,</l>
+               <l>To build a New One from the ſad Remains.</l>
+               <l>Add; that, if Right be e'r to Conqueſt due,</l>
+               <l>The Right of Rule is now devolv'd on you.</l>
+               <l>And by that Right they in the Houſe are plac't,</l>
+               <l>(They were till they deſtroy'd that Right at laſt,)</l>
+               <l>From Kings their Ancient Charter is deriv'd,</l>
+               <l>Who by that Title govern'd while they liv'd.</l>
+               <l>So then; or they by Uſurpation reign,</l>
+               <l>And 'tis but Juſt to take your Own again;</l>
+               <l>Or You have equall Title to the Sway,</l>
+               <l>Who found your Pow'r on the ſame Baſe as They.</l>
+               <l>Now let them urge, I meanly ſeek my own,</l>
+               <l>
+                  <pb n="17" facs="tcp:39268:11"/>I place all Legal Power in You alone.</l>
+               <l>And Heaven has left it in your Sacred Breaſt</l>
+               <l>To keep it in your ſelves, where duely plac't,</l>
+               <l>Or by Free Choice your Subſtitute t' inveſt.</l>
+               <l>I muſt confeſs my Sence to this inclin'd,</l>
+               <l>(Wreſt not the Freedom of an Honeſt Mind,)</l>
+               <l>Enjoy your ſelves the Sweets of your Eſtate,</l>
+               <l>But chooſe a Steward for the painful Weight.</l>
+               <l>My Weakneſs bids th' unequal Load decline,</l>
+               <l>Alas, you want far abler Heads then mine!</l>
+               <l>To ſuch, moſt freely, I reſign their due,</l>
+               <l>May I enjoy an Eaſy'r Share with you!</l>
+               <l>Beſide, the Senate tell ye, I've betray'd</l>
+               <l>The Weighty Truſt they on theſe Shoulders laid;</l>
+               <l>Ungrateful as they are! Yet let them know</l>
+               <l>'Tis not to Them I ſtoop, but bow to you.</l>
+               <l>I dare the Harmleſs Lightning of their Frown,</l>
+               <l>Yet to juſt Right can lay my Office down.</l>
+               <l>But ſtill muſt fear, One Wretches ſingle fate</l>
+               <l>Will ſcarce the Malice of their Rage abate,</l>
+               <l>You too they juſtly fear, and therefore Hate;</l>
+               <l>You too they've wrong'd.—Then ſpoke in Tears the reſt</l>
+               <l>To ſhew Their Wrongs ſate neareſt to his Breaſt.</l>
+            </lg>
+            <lg>
+               <l>And now, the Rout let in, the Cries increaſe,</l>
+               <l>Freedom, the Army and <hi>Agathocles!</hi>
+               </l>
+               <l>But be Unmov'd, like a Stanch Hypocrite,</l>
+               <l>Diveſts himſelf of Gene'ral in their ſight,</l>
+               <l>Mean Trick the Melting Rabble to trepan!</l>
+               <l>To move their Pity for ſo Good a Man.</l>
+               <l>This falſe <hi>Antander</hi> found, and took the Cue,</l>
+               <l>Well skill'd what Harms the leaſt Delays enſue;</l>
+               <l>And thus replies. —And who for Power more fit,</l>
+               <l>Then He, who would the well-weigh'd Burthen quit?</l>
+               <l>Raw Saylors New Diſcove'rys hunt with joy,</l>
+               <l>While ableſt Pilots ſhun the hard Employ.</l>
+               <l>
+                  <pb n="18" facs="tcp:39268:12"/>'Tis paſt belief He can the Truſt abuſe,</l>
+               <l>Who bravely dares the tempting Bait refuſe.</l>
+               <l>Who graſps at Greatneſs for ambitious ends,</l>
+               <l>Muſt Parties Form, and make Seditious Friends.</l>
+               <l>Will He miſuſe Your Power, who gave his own?</l>
+               <l>So unconcern'd, ſo readily laid down!</l>
+               <l>Methinks, I hear his troubled Souldiers call,</l>
+               <l>
+                  <hi>Antander,</hi> ſpeake, entreat the General:</l>
+               <l>Tell him, He muſt not, ſhall not thus be loſt,</l>
+               <l>Freedom were dearly bought, at ſo much Coſt.</l>
+               <l>Tell him, his Army ſettled in their Choice,</l>
+               <l>Claim their <hi>Protectour,</hi> with a general voice.</l>
+               <l>They claim you, Sir; their Safety and Delight,</l>
+               <l>Their Own <hi>Agathocles,</hi> their Deareſt Right,</l>
+               <l>With whom they Suffer, and for whom they Fight.</l>
+               <l>To ſhew their Right, and take your ſelf away,</l>
+               <l>In the worſt Sence, Your Army you betray.</l>
+               <l>What ready'r Way could the Curſt Senate chooſe,</l>
+               <l>To their Revenge our hated Lives t' expoſe?</l>
+               <l>Oh, do not You, like them, Your Souldiers wrong,</l>
+               <l>Invading what to Us does moſt belong!</l>
+            </lg>
+            <lg>
+               <l>He ſaid; And now again, with doubled Noiſe,</l>
+               <l>They call for their <hi>Protectour</hi> and their Choice.</l>
+               <l>Mere <hi>Machins!</hi> yet the Movement hid ſo well,</l>
+               <l>They ſeem to act from a Free Principle:</l>
+               <l>But the <hi>Mechanique</hi> Power, by which they move,</l>
+               <l>It ſelf is guided by ſome Hand above.</l>
+            </lg>
+            <lg>
+               <l>E'r this the Senate theſe Commotions hears,</l>
+               <l>Ill News has Wings, and Guilt is all o'r Ears.</l>
+               <l>But Fear conforms their Counſells to the times,</l>
+               <l>Unable to correct, they ſooth his Crimes.</l>
+               <l>A Legate, at this Inſtant, brought their voice,</l>
+               <l>To back, with Their Conſent, the Armies Choice.</l>
+               <l>
+                  <pb n="19" facs="tcp:39268:12"/>At the glad News the Souldiers tear the Skys,</l>
+               <l>With Joys unbridled, and Exalted Cries.</l>
+               <l>But their <hi>Protectour</hi> did expect no leſs,</l>
+               <l>He long foreſaw ſuch petty Shifts as theſe.</l>
+               <l>Yet loth ſo fair Advantage to refuſe,</l>
+               <l>To pleaſe the Army, and the Houſe t' amuſe,</l>
+               <l>In perjur'd Words, He forms his Anſwer thus.</l>
+            </lg>
+            <lg>
+               <l>Witneſs, Ye Gods, with what Regrett I take</l>
+               <l>The noble Weight, too heavy for this Back!</l>
+               <l>So proſper me, as I would much prefer</l>
+               <l>Th' unenvy'd Safety of a Private Share!</l>
+               <l>Whom Heaven prefers, with Liberty to bleſs</l>
+               <l>So Good a People, with ſo good Succeſs;</l>
+               <l>How ill muſt He all meaner Hopes regard,</l>
+               <l>That Glorious Action is it's own Reward!</l>
+               <l>But ſince unworthy of the hop'd Releaſe,</l>
+               <l>To you I ſacrifice my Thoughts of Eaſe.</l>
+               <l>Yet, One Condition let my Weakneſs make,</l>
+               <l>May Envy ne'r my Juſt Deſigns miſtake;</l>
+               <l>(The nobleſt Actions, and the cleareſt Heart,</l>
+               <l>Like ſtrongeſt Towns, ſtill have their weaker Part;)</l>
+               <l>May falſe Surmiſes ne'r a Mind torment,</l>
+               <l>So nice of Fame, ſo honeſt in Intent!</l>
+               <l>I muſt confeſs, unwonted Means were us'd,</l>
+               <l>But our Diſorders all Delays refus'd,</l>
+               <l>And th' Iſſue has, at leaſt, the Means excus'd.</l>
+               <l>Our Hot Diſtempers call'd for preſent Cure,</l>
+               <l>Unfit a tedious Courſe of Phyſick to endure.</l>
+               <l>This only way to Publick Peace we ſaw,</l>
+               <l>And General Benefit is ſtanding Law.</l>
+               <l>Indebted to the Army for their Choice,</l>
+               <l>Confirm'd in Office by the Senate's Voice.</l>
+               <l>By both Elect, to both oblig'd I ſtand,</l>
+               <l>And both ſhall reap their Hopes in my Command.</l>
+               <l>My Care ſhall ſo the Senat's Fears remove,</l>
+               <l>
+                  <pb n="20" facs="tcp:39268:13"/>As ſhall preſerve the Army's conſtant Love;</l>
+               <l>My Faith the Army's Griefs ſhall ſo redreſs,</l>
+               <l>The Senate ne'r ſhall find their Power leſs.</l>
+            </lg>
+            <lg>
+               <l>Thus, in dark Terms, the falſe Diſſembler ſpoke,</l>
+               <l>And, with a general ſhout th' Aſſembly broke.</l>
+               <l>Now, fearleſs with the, lately, frightful Load,</l>
+               <l>His ſwift Ambition rather flew, then rode;</l>
+               <l>Unlook'd for to th' amazed Houſe he came,</l>
+               <l>The laſt Completion of their Vote to claim.</l>
+               <l>His wanton Ears, cloy'd with the Souldiers Cries,</l>
+               <l>Hunt freſh Variety of Pop'lar Noiſe.</l>
+               <l>All things for his Inſtalment are prepar'd,</l>
+               <l>The Scarlet Senate to the Ruſſet Guard.</l>
+               <l>On ev'ry Face ſome marks of Joy remain,</l>
+               <l>Such as Men ſhew, who would diſguiſe their Pain.</l>
+               <l>The Tumult, Noiſe, and Charges of the Day;</l>
+               <l>Were fatal Omens of his future Sway.</l>
+               <l>But the mixt Pomp in order to produce,</l>
+               <l>Would fret the Patience of a City Muſe.</l>
+               <l>Let it ſuffice; to <hi>Ceres's</hi> Fane he came,</l>
+               <l>And toucht the Lighted Tapers Holy Flame;</l>
+               <l>Then, by th' Eternal Gods devoutly Swore,</l>
+               <l>That Law, and Right ſhould moderate his Pow'r.</l>
+               <l>But Vows, and Oaths have ſtill too weak bin found,</l>
+               <l>No Tyrant by thoſe Fetters e'r was bound;</l>
+               <l>They hold the Mad-man till his Fits begin,</l>
+               <l>But break when the Fierce <hi>Daemon</hi> raves within.</l>
+               <l>Had his proud Soul the Publick Good deſign'd,</l>
+               <l>Or would juſt Bounds of Power have pleas'd his Mind;</l>
+               <l>What fairer ſeaſon could his wiſh befriend</l>
+               <l>Juſt Power to gain, the Nation's Griefs to end?</l>
+               <l>His generous Care the Banniſht Heir had found,</l>
+               <l>The I'le with Peace, his Prince with Right had crown'd.</l>
+               <l>But our <hi>Protectour's</hi> Temper differ'd quite,</l>
+               <l>Could ne're reſtrain his Vitious Appetite.</l>
+               <l>
+                  <pb n="21" facs="tcp:39268:13"/>The baſeſt Means his impious Malice choſe,</l>
+               <l>Kings, in their very Mem'ry, to depoſe.</l>
+               <l>By Edict pulls their <hi>Gelon's</hi> Statues down,</l>
+               <l>With all the Sacred Enſigns of the Crown;</l>
+               <l>That, Former Liberty remov'd from ſight,</l>
+               <l>The People might endure his Lawleſs might.</l>
+               <l>The Senate too might now his Meaning gheſs,</l>
+               <l>Who never well could find their Power Leſs!</l>
+               <l>Juſtly Diſſolv'd, yet not for hate to Ill,</l>
+               <l>But pure Deſign to ſhew his boundleſs Will.</l>
+               <l>The Senate gon, the Army feels his Pride,</l>
+               <l>Their <hi>Adjutators</hi> muſt be laid aſide,</l>
+               <l>The Senate's Pow'r extinct, their Fate imply'd.</l>
+               <l>Theſe Rival Evils were remov'd alone</l>
+               <l>To clear the way for worſe compact in One.</l>
+            </lg>
+            <lg>
+               <l>Once more the weary'd Nation hop'd for reſt,</l>
+               <l>And ſeeming Joy at the new Change expreſt;</l>
+               <l>Not that they lik'd his Uſurpations well,</l>
+               <l>But Change of Evil, is ſome eaſe in Hell.</l>
+               <l>As Men, when Feavers in the blood encreaſe,</l>
+               <l>Each minute try ſhort Intervalls of Eaſe,</l>
+               <l>But ſtill the liquid Fires which feed their Pain</l>
+               <l>A Vaſt Expence of Spirits muſt maintain;</l>
+               <l>So their long Heats ſome little Reſpite had,</l>
+               <l>(Enough to make the quick Return more ſad!)</l>
+               <l>But ſtill they felt th' Unſatiable Diſeaſe,</l>
+               <l>Kept low by Ravenous <hi>Agathocles.</hi>
+               </l>
+               <l>By Monthly Subſidies he drain'd their Store,</l>
+               <l>And, for the Publick Safety, kept them Poor.</l>
+               <l>Rewarding ſo their faithleſs Temper well,</l>
+               <l>Whom Wealth, and Eaſe ſtill fitted to rebell.</l>
+               <l>Of ev'ry turn of Things ſuch uſe he made,</l>
+               <l>As ſhew'd him perfect Maſter of his Trade.</l>
+               <l>Witneſs, the Plots which he ſo well contriv'd,</l>
+               <l>
+                  <pb n="22" facs="tcp:39268:14"/>They always threaten'd, but they never triv'd.</l>
+               <l>Theſe by ſuch wondrous Providence he knew,</l>
+               <l>The Heavens ſeem'd t' have nothing elſe to do.</l>
+               <l>Or that their <hi>Jove,</hi> grown infamous and Poor,</l>
+               <l>Were ſetting up for a Diſcoverer.</l>
+               <l>And 'twas obſerv'd, only the Brave, and Great,</l>
+               <l>Conſpicuous for Vertue, and Eſtate,</l>
+               <l>Did e're Imagine the <hi>Protectour's</hi> Fate.</l>
+               <l>Yet by theſe Means a fair Pretence he got</l>
+               <l>To keep his Army up to aw the Plot.</l>
+               <l>Armies, and Guards ſuch frightful Things appear,</l>
+               <l>No Plot can e're ſucceed for very Fear!</l>
+               <l>And when ſuch Service in a State they 've don,</l>
+               <l>'Twere mere Ingratitude to put them down!</l>
+               <l>Had all his Plots made this their only aim,</l>
+               <l>To levy Taxes in the Army's Name,</l>
+               <l>And with the Coine to keep that Bugg in play,</l>
+               <l>They might have born his Arbitrary Sway.</l>
+               <l>But his Deſigns at nobler Quarry fly,</l>
+               <l>Our Lives, and Fortunes are a Tyrant's Prey.</l>
+               <l>By Friends Pretended, but unmanly Spies,</l>
+               <l>He moves the Exiles to combine, and riſe.</l>
+               <l>That, with ſome ſhew of Juſtice, he might take</l>
+               <l>Their ample Fortunes as a Forfeit Stake.</l>
+               <l>
+                  <hi>Juſtice,</hi> thus wrong'd, went mourning o're the Land,</l>
+               <l>Her Hands polluted, and her Garments ſtain'd,</l>
+               <l>And ſaw, with grief, the truely Good, or Great,</l>
+               <l>Expos'd to Death, as dang'rous to the State.</l>
+               <l>Oh, had his Fury always bin ſo Kind!</l>
+               <l>Death is the Centre of a Noble Mind!</l>
+               <l>Heroic Worth can Death embrace with Joy,</l>
+               <l>To ſuch, 'tis harder much to ſerve, then Die.</l>
+               <l>This truth, too well, the Curſt <hi>
+                     <g ref="char:V">Ʋ</g>ſurper</hi> knew,</l>
+               <l>And ſtriving, in One Act, Himſelf t' outdo,</l>
+               <l>(My Muſe for horrour of the Monſtrous Deed,</l>
+               <l>
+                  <pb n="23" facs="tcp:39268:14" rendition="simple:additions"/>Starts back, and trembles, and can ſcarce proceed!)</l>
+               <l>A Numerous Train, robb'd of their Right, and Lands,</l>
+               <l>He ſells, (Juſt Gods!) he ſells to ſerve on Foreign Sands!</l>
+               <l>Free Subjects all, the Old <hi>Sicilian</hi> Race,</l>
+               <l>Contemning Life, Impatient of Diſgrace!</l>
+               <l>His Guilt, long ſince, no Elder-Rivals knew,</l>
+               <l>But this has foyl'd all future Tyrants too.</l>
+               <l>This Maſterpeice, which drain'd the Widdows eyes,</l>
+               <l>And fill'd the Air with helpleſs Orphans Cries.</l>
+               <l>Curſt Man! thy Fears allow ſuch Arms as theſe,</l>
+               <l>Thy Cruel Senſe ſuch Combinations pleaſe!</l>
+               <l>Yet know, thoſe Sighs are treaſur'd in the Skys,</l>
+               <l>To fall in Tempeſts on thy Perjuries.</l>
+            </lg>
+            <lg>
+               <l>Thus his aſpiring Baſeneſs treads on all,</l>
+               <l>The Great regards not, but contemns the Small.</l>
+               <l>Like ſome great Deluge by juſt Heaven deſign'd</l>
+               <l>To viſit the Offences of Mankind;</l>
+               <l>It's boundleſs Fury ſweeps the Cotts away,</l>
+               <l>And makes the Proudeſt Palaces a prey;</l>
+               <l>Yet ſome, untainted with the Common Crimes,</l>
+               <l>By ſpecial Grace, eſcape till better Times.</l>
+               <l>So here ſome Few avoid his Bloody'r Rage,</l>
+               <l>Sav'd to repair the Ruins of the Age.</l>
+               <l>But of the Brave Unfortunates was none</l>
+               <l>Whoſe glorious Suff'rings <hi>Philocles</hi> out-ſhone.</l>
+               <l>His Courage, as his Suff'rings Nobly Great,</l>
+               <l>Accus'd not fate, nor tamely could ſubmit.</l>
+               <l>He heard his Mother for her Burthen groan,</l>
+               <l>Concern'd more at her Wrongs, then for his Own;</l>
+               <l>And came from Exile in a low Diſguiſe</l>
+               <l>To head his Maſter's Friends prepar'd to riſe.</l>
+               <l>But Fortune oft the juſter Cauſe forſakes,</l>
+               <l>Oft the beſt Temper'd, Wiſeſt Counſells breakes!</l>
+               <l>Yet Heaven was pleas'd It's Power to interpoſe,</l>
+               <l>T' elude the Watchful Malice of his Foes.</l>
+               <l>
+                  <pb n="24" facs="tcp:39268:15" rendition="simple:additions"/>Heaven ſaw how much the Next Relapſing Age</l>
+               <l>Would want his Faith, his Wiſdom would engage,</l>
+               <l>How much <hi>Sardinia,</hi> Twice his Weighty Care,</l>
+               <l>To her Lov'd <hi>Praefect's</hi> Honour ſhould refer;</l>
+               <l>And this foreſeeing, only ſtopt his Fame,</l>
+               <l>To pay't with Int'reſt to his Greater Name.</l>
+               <l>With him <hi>Eudoxus</hi> juſtly claims a place,</l>
+               <l>
+                  <hi>Eudoxus</hi> form'd to bleſs the Land in Peace.</l>
+               <l>From wrongful Wars, with his Great Prince, he went,</l>
+               <l>In Forreign Courts injoying Banniſhment;</l>
+               <l>By Converſe, and Experience there, refin'd</l>
+               <l>His Polite Knowledge, and Diſcerning Mind.</l>
+               <l>Prepar'd, when God e're long reſtores his Cauſe,</l>
+               <l>With Equity to Mitigate the Laws.</l>
+               <l>Which in their Intruſe Meaning are Severe,</l>
+               <l>And without ſuch a Guide too often Err.</l>
+               <l>Oh Wonder of the Court! Oh glory of the Gown!</l>
+               <l>Thy Mighty Worth has Others Fame out-flown,</l>
+               <l>In God-like Sons, thou haſt excell'd thy Own!</l>
+               <l>On Them thy mounting Soul has left behind</l>
+               <l>A Double Portion of their Father's Mind,</l>
+               <l>His Truth, his Prudence, and (his Glorious Fate)</l>
+               <l>Their Prince's Friendſhip, and the Rabble's Hate.</l>
+            </lg>
+            <lg>
+               <l>Here, Muſe, return; Thou haſt too looſely fled,</l>
+               <l>Unwarily, by Vertue's Splendour, led</l>
+               <l>To leave thy Theme ſo excellently Bad!</l>
+               <l>Or was't the Hideous Rapine of the Times,</l>
+               <l>The frightful Shapes of <hi>Decimation</hi> Crimes?</l>
+               <l>Invain the Country Want of Stock complain,</l>
+               <l>The City plead Decay of Trade invain;</l>
+               <l>Where e're the Dreaded Civil Plund'rers come,</l>
+               <l>An Helpleſs Waſt is left, a mournful Home.</l>
+               <l>To Heaven, his daring Sacrilegious Spight,</l>
+               <l>It's Ancient Off'ring, and Unqueſtion'd Right,</l>
+               <l>
+                  <pb n="25" facs="tcp:39268:15"/>The Tithe deny'd; yet the fleec't Land muſt pay</l>
+               <l>Heaven's Dues Uſurpt by this baſe Idol Clay.</l>
+               <l>Scarce one Remove from their firſt Nature Clod,</l>
+               <l>Each Dirty Tyrant would be thought a God:</l>
+               <l>And Gods they are; as Men in former days</l>
+               <l>To <hi>Plague,</hi> and <hi>Theft</hi> did Servile Altars raiſe.</l>
+               <l>In his beſt Actions Zealouſly Profane,</l>
+               <l>Thus all Religions flouriſht in his Reign.</l>
+               <l>A vaſt encreaſe of Gods came daily up,</l>
+               <l>
+                  <hi>Egypt</hi> ne'r knew a more Prodigious Cropp;</l>
+               <l>Tho, ev'ry Year, her fruitful Waters riſe</l>
+               <l>To ſatisfy her Godly Avarice.</l>
+               <l>Some New Grimace, or Fooliſh Diff'ring Lye,</l>
+               <l>Was Title to this Mock-<hi>Theogony;</hi>
+               </l>
+               <l>Yet none were enter'd <hi>gratis</hi> on the Line,</l>
+               <l>But bought a Mercenary Right Divine.</l>
+               <l>So <hi>Heraulds</hi> with ſome ſlight Diff'rence trepan</l>
+               <l>The buying Fopp, and dubb a Gentleman.</l>
+               <l>But Upſtart Gods do always dang'rous prove,</l>
+               <l>Still found th' Eſtabliſht Worſhip to remove.</l>
+               <l>In <hi>Syracuſe</hi> an Ancient Fabrick ſtood,</l>
+               <l>At home much honour'd, much ador'd abroad,</l>
+               <l>An Auguſt Pile, it ſelf almoſt a God,</l>
+               <l>To Great <hi>Diana</hi> built;—</l>
+               <l>
+                  <hi>Agathocles</hi> deem'd nought but Gold Divine,</l>
+               <l>And ſpoil'd the Goddeſs of her Silver Shrine.</l>
+               <l>H' had robb'd her of her Annual Rents before,</l>
+               <l>Uncas't, and ſtrip't her like a Common Whore.</l>
+               <l>And while ſhe wander'd from her Rightful home</l>
+               <l>Would, Providently, ſell the Uſeleſs <hi>Dome;</hi>
+               </l>
+               <l>As if 't had bin one of his Suburb Stews,</l>
+               <l>Would proſtitute it to ſo vile an Uſe</l>
+               <l>As to become a <hi>Synagogue</hi> for <hi>Jews.</hi>
+               </l>
+               <l>Curſt may'ſt thou ſtand, with that Bold Wretch, in Fame,</l>
+               <l>Who in her Aſhes wrote his hated Name!</l>
+               <l>
+                  <pb n="26" facs="tcp:39268:16"/>And may this Diff'rence ſignalize thy Crimes,</l>
+               <l>While Story bears his Guilt to future times,</l>
+               <l>Untoucht by Time, may the <hi>Sicilian Fane</hi>
+               </l>
+               <l>
+                  <hi>Collat'ral</hi> Witneſs to thy ſhame remain!</l>
+            </lg>
+            <lg>
+               <l>Thus having paſt the ancient Bounds of Vice,</l>
+               <l>And Fame enſur'd, by New Diſcoverys,</l>
+               <l>Uncloy'd, unweary'd yet with doing Ill,</l>
+               <l>Left of temptation, more then wanting Will,</l>
+               <l>He forms himſelf by ſtudy'd Arts to pleaſe,</l>
+               <l>Affecting to appear deſign'd for Peace.</l>
+               <l>Kind Words, Obliging Smiles, and Gracious Bows,</l>
+               <l>Slight Favours are, He ev'ry where beſtows,</l>
+               <l>Like Mony to the Crowd in Publick Shews.</l>
+               <l>He hates th' Impertinence, and Forms of State,</l>
+               <l>(The Little Vanitys which make Men Great!)</l>
+               <l>Yet loves the Nation ſhould proclaim that Hate.</l>
+               <l>But ſtriving ſtill to make his Vertues known,</l>
+               <l>Argues the Jewels Falſe, or not his Own.</l>
+               <l>Tyrants with Royal Vertues ſtrive to ſhine,</l>
+               <l>As Devils imitate the Power Divine;</l>
+               <l>While thoſe Fictitious Attributes alone</l>
+               <l>Betray their falſe Pretenſions to a Throne.</l>
+               <l>For Clemency, they make their Greatneſs Cheap,</l>
+               <l>And juſt Neglect by nauſeous Follys reap.</l>
+               <l>For graceful Freedom, they Buffoon'ry chooſe,</l>
+               <l>And graciouſly vouchſafe themſelves t' expoſe.</l>
+               <l>Thus Ours frequenting the dull City Feaſts,</l>
+               <l>With Buffoon Tricks tickled the Heavy Gueſts.</l>
+               <l>But tho theſe mean Diſguiſes gain'd his Ends</l>
+               <l>Upon the Rout, they loſt his Private Friends.</l>
+               <l>For Few to that Indifference arrive,</l>
+               <l>Made Publick Laughter, that they can forgive;</l>
+               <l>And Men with leſs Reluctancy commit</l>
+               <l>The Fouleſt Crime, then they can hear of it;</l>
+               <l>
+                  <pb n="27" facs="tcp:39268:16" rendition="simple:additions"/>But nothing galls a Guilty Conſcience more,</l>
+               <l>Then Laſhes from that Fiend, which caus'd the Sore.</l>
+               <l>This made ſome Braves, abus'd in Publick Feaſts,</l>
+               <l>And toucht too roughly by his Ruſtick Jeſts,</l>
+               <l>Too openly thoſe Injurys reſent,</l>
+               <l>Avowing, to their Coſt, their Diſcontent.</l>
+               <l>But <hi>Maenon</hi> unconcern'd ſubmits to all,</l>
+               <l>And ſmiles to ſee the Angry Wretches fall.</l>
+               <l>His Faithful Wife had made the Tyrant Sport,</l>
+               <l>And him the Table Jeſt of Town, and Court;</l>
+               <l>And in the Camp his Int'reſt grew ſo great,</l>
+               <l>It might in time give the <hi>Proctectorate.</hi>
+               </l>
+               <l>Ambition, and Revenge, his Rage with-hold,</l>
+               <l>Vices too dear, for Rayling, to be ſold.</l>
+               <l>Yet tho to view he carry's Things ſo fair,</l>
+               <l>His ſwelling Heart does Mortal Poiſon bear;</l>
+               <l>And, he has order'd his Deſigns ſo well,</l>
+               <l>The Tyrant now, too late, the fatal Draught may feel.</l>
+            </lg>
+            <lg>
+               <l>Thro all the Town the haſty Secret flies,</l>
+               <l>In Whiſpers told, and heard without Replies;</l>
+               <l>As if men fear'd ſome new Deſign behind,</l>
+               <l>Some yet Unfathom'd Tyrannies to find;</l>
+               <l>But when ſo faſt ſucceſſive Tidings flew,</l>
+               <l>As made 'em credit their long Wiſhes true;</l>
+               <l>Not Seas got looſe with greater Fury roar,</l>
+               <l>Which bearing down the Banks, regain their Shoar;</l>
+               <l>Then o're the Town ſpread the Tumult'ous noiſe</l>
+               <l>Of Crowds expreſſing their unruly Joys.</l>
+               <l>One never lik't the Man, was ne'r his Friend,</l>
+               <l>Another long foreſaw his Tragick End.</l>
+               <l>Some inſolently triumph in his Fall,</l>
+               <l>And others trace out Providence in all.</l>
+               <l>The Country, whom portentous Tokens fright,</l>
+               <l>Each Minute flock to tell ſome Diſmal ſight,</l>
+               <l>
+                  <pb n="28" facs="tcp:39268:17"/>
+                  <hi>Aetna</hi> on all ſides liquid Sulphur throws,</l>
+               <l>Which o're the Meads in flaming Rivers flows;</l>
+               <l>Or neib'ring Lawns in dire Convulſions lie,</l>
+               <l>As Nature's ſelf were at the point to die.</l>
+               <l>But, a much fiercer <hi>Aetna</hi> feeds his Pains,</l>
+               <l>And boyling Poiſons travel thro his Veins;</l>
+               <l>More pungent Pangs convulſe his ſtubborn Heart,</l>
+               <l>And, minutely, he ſlowly Dies in ev'ry part.</l>
+               <l>Huge, Monſtrous Whales forſake the troubled Sea,</l>
+               <l>Which gape like Hell, and ſeem t' expect their Prey;</l>
+               <l>And dreadful Tempeſts hollow in the Air,</l>
+               <l>To waft him to the ſtormy Regions of Deſpair.</l>
+               <l>But thoſe loud Storms can never be expreſt,</l>
+               <l>Thoſe Hurricanes which toſs his troubled Breaſt;</l>
+               <l>And Loathſom Monſters no reſemblance find</l>
+               <l>With thoſe foul Shapes of Crimes which haunt his Mind.</l>
+               <l>Such Wrecks, ſuch Anguiſh Soul, and Body feel.</l>
+               <l>He ſeems the ſad <hi>Epitome</hi> of Hell.</l>
+               <l>His Luſts and Paſſions ſtill more vig'rous grow,</l>
+               <l>And wanting vent, prey on their Maſter now,</l>
+               <l>So exquiſitely fierce, he ſuffers more,</l>
+               <l>Then all the Slaves they Sacrific'd before.</l>
+               <l>Mean while ſuch ſlow Aſſaults the Poiſons make,</l>
+               <l>As if they would the tedious Siege forſake;</l>
+               <l>Or that they meant to kill the Wretch by parts,</l>
+               <l>Returning on himſelf his Barb'rous Arts.</l>
+               <l>At laſt, by Friends forſaken, curſt by Foes,</l>
+               <l>Tyr'd out of Life by cruel Lingring Woes.</l>
+               <l>Harden'd, and Mad, and Curſing as he fell,</l>
+               <l>He dies not, but removes t' another Hell.</l>
+            </lg>
+            <lg>
+               <l>Senſeleſs, and Cold the Mighty Carcaſe lies,</l>
+               <l>Which was e're long ſo Buſy, and ſo Wiſe.</l>
+               <l>And all his awful Preſence, all his Pride</l>
+               <l>Muſt into Loathing, and Corruption ſlide.</l>
+               <l>No more his treach'rous Arts beguile the Throng,</l>
+               <l>
+                  <pb n="29" facs="tcp:39268:17" rendition="simple:additions"/>No more falſe Tears befriend his wily Tongue.</l>
+               <l>One little Daught has gain'd the Nation more,</l>
+               <l>Then all her Wealth, then all her Pow'r before.</l>
+               <l>One little Draught has quench'd that Thirſt of Rule,</l>
+               <l>Which all her Blood, or Tears could never cool.</l>
+               <l>So from their Height may all Bold Wretches fall,</l>
+               <l>Unpity'd, and Inſulted o're by all,</l>
+               <l>Who with falſe Shews the eaſy Rout betray,</l>
+               <l>To make their fenceleſs Properties a Prey;</l>
+               <l>Who of its Sacred Jewells ſpoil a Crown,</l>
+               <l>To deck Uſurp'd Mock-Grandeur of their own!</l>
+               <l>So may they fall, o're-taken by their Crimes,</l>
+               <l>And their ſad End affright ſucceeding Times!</l>
+            </lg>
+            <lg>
+               <l>Thus <hi>Maenon,</hi> who had wink'd at the Reproach</l>
+               <l>Succeſsfully Reveng'd his Wife's Debauch;</l>
+               <l>Had not Ambition here put in a Claim.</l>
+               <l>The Common Good had found a nobler Name.</l>
+               <l>But Vulgar Spirits no Reſtraint admit,</l>
+               <l>They urge Ambition, if Succeſs invite.</l>
+               <l>So He, whoſe Soul in ſome baſe Mould was made,</l>
+               <l>His Pow'rith' Army, more then Virtue, weigh'd;</l>
+               <l>And, while Confuſions kept the City weak,</l>
+               <l>Reſolv'd, by Force, the Tyrant's Room to take.</l>
+               <l>But as, oft times, when gath'ring Tempeſts riſe</l>
+               <l>Unite their Clouds, and darken all the Skies;</l>
+               <l>Some ſmall Bright Tract, which on th' <hi>Horizon's</hi> ſide</l>
+               <l>Unheeded lay, and almoſt Uneſpy'd,</l>
+               <l>Recovers the Loſt Glory of the Day,</l>
+               <l>And ſeems to drive the ſcatter'd Hoſt away;</l>
+               <l>So, tho his Motions bear a dreadful Form,</l>
+               <l>Threatning a Second, more Deſtructive Storm,</l>
+               <l>Yet from the North a Glorious Chief appears,</l>
+               <l>To ſcatter his Deſigns, and drive away their Fears.</l>
+               <l>The Brave <hi>Nicoetas</hi> has atchiev'd his Fall,</l>
+               <l>
+                  <pb n="30" facs="tcp:39268:18" rendition="simple:additions"/>And draws the Eyes, and fills the Mouthes of all.</l>
+               <l>Himſelf Fame's Bus'neſs and Delight alone;</l>
+               <l>Vertue's Darling; Honour's Mightyeſt Son.</l>
+               <l>Bold, Prudent, Juſt, Succeſsful without Pride,</l>
+               <l>Lov'd of his Own, Prais'd by the Adverſe ſide.</l>
+               <l>In Victory ſo Good, ſo True t' his Word,</l>
+               <l>His Mercy held a Conteſt with his Sword.</l>
+               <l>He ſaw the People's Raging Calenture,</l>
+               <l>And Humor'd the Diſeaſe into a Cure;</l>
+               <l>He ſaw of Civil Broils the hideous Scarrs,</l>
+               <l>And put a Stop to more Unnat'ral Warrs.</l>
+               <l>Ah, Wondrous Man! What Crowns belong to Thee,</l>
+               <l>Who from Her ſelf ſet'ſt a Mad Nation Free,</l>
+               <l>And gain'ſt o'r War a Bloodleſs Victory!</l>
+               <l>Nothing could add to Thy ſublime Renown,</l>
+               <l>But daring to refuſe a proffer'd Crown:</l>
+               <l>And He, who durſt attempt that gen'rous Flight,</l>
+               <l>To make Succeſs ſubmit to Exil'd Right,</l>
+               <l>Seems only Leſs, becauſe at Greater Height.</l>
+               <l>On this Bleſt Theme my Muſe would ever dwell</l>
+               <l>Inſpir'd by Worth ſhe muſt delight to tell.</l>
+               <l>But whoſo <hi>Hiero</hi> to his Throne would bring,</l>
+               <l>In the ſame Verſe <hi>Nicaetas's</hi> Praiſe muſt ſing.</l>
+            </lg>
+            <lg>
+               <l>And, Lo! at laſt, the Goodly Prince is come,</l>
+               <l>In Triumph too, to Bleſs his Native Home.</l>
+               <l>
+                  <hi>Hiero</hi> of all Mankind, Belov'd, and Bleſt,</l>
+               <l>Of all Mankind the Lovly'ſt, and the Beſt.</l>
+               <l>Who from Great <hi>Hiero</hi> brings his Title down,</l>
+               <l>Heir to his Name, his Virtues, and his Crown;</l>
+               <l>Whoſe Right ſo long his Wilful Sinning Land</l>
+               <l>In Exile ſaw, yet would not Underſtand;</l>
+               <l>Whom, all his Years of Trouble and Diſtreſs,</l>
+               <l>The World abroad ne'r Thought, or Honour'd leſs;</l>
+               <l>For, tho Falſe Stones require a friendly Light,</l>
+               <l>The Royall Diamond ſhines no leſs by Night.</l>
+               <l>
+                  <pb n="31" facs="tcp:39268:18"/>He comes, like the Great <hi>Indian</hi> God of old,</l>
+               <l>With Awful Beauty Graceful to behold.</l>
+               <l>Like Him reducing Humane Salvages.</l>
+               <l>A nobler way, reducing them by Peace.</l>
+               <l>Like Him too may he live, for ever Young</l>
+               <l>Beauty's Deſire, and Wit's Eternal Song!</l>
+               <l>He comes, what yet is to be held moſt Dear,</l>
+               <l>As beſt befits Great <hi>Hiero's</hi> Greater Heir.</l>
+               <l>Mild, Gracious, Good, with Pardon in his hand,</l>
+               <l>His Mercy ſhaming ev'n th' Offending Land;</l>
+               <l>Embracing Wretches no Man durſt propoſe,</l>
+               <l>Preventing ev'n Repentance in his Foes.</l>
+               <l>He comes, and from all Coaſts glad Throngs reſort,</l>
+               <l>(The Northern <hi>Caſtle,</hi> and the Weſtern <hi>Port</hi>)</l>
+               <l>As if the Nation had combin'd to meet,</l>
+               <l>And with one Breath their Welcome Monarch greet;</l>
+               <l>Or their United Duty that way ſtrove</l>
+               <l>To make return for Univerſal Love.</l>
+               <l>The Houſhold Gods with Holy Wreaths are crown'd</l>
+               <l>The Streets with <hi>Hieroglyphic</hi> Pomps abound;</l>
+               <l>All Things aſſum'd Unuſu'al Brav'ry wear,</l>
+               <l>And in the Triumph bear a willing Share.</l>
+               <l>Nor can that Joy the Peoples Tongues expreſs</l>
+               <l>Proceed but from a Senſe of Happineſs;</l>
+               <l>Their Eyes, and Hands, and ev'ry Speaking Part,</l>
+               <l>Proclaim alike the Language of their Heart.</l>
+               <l>Where e're, in all his long Triumphant way,</l>
+               <l>Himſelf the Brighteſt Glory of the Day,</l>
+               <l>The Mighty Prince with graceful Motion rides,</l>
+               <l>His heavenly Form into their Fancies glides,</l>
+               <l>Shedding a gentle Influence all around,</l>
+               <l>And Darting Charms which all beholders wound.</l>
+               <l>The Virgins bluſhing look their Hearts away;</l>
+               <l>Inſenſibly the Matron's Wiſhes ſtray.</l>
+               <l>The Aged Heads, joy'd at the Happy Sight,</l>
+               <l>
+                  <pb n="32" facs="tcp:39268:19"/>In Tears expreſs their Wonder, and Delight;</l>
+               <l>From their Own Years the Loyal Youth would take,</l>
+               <l>And to his Life a ready Off'ring make.</l>
+               <l>Oh, may thy Golden Years, Great <hi>Hiero</hi> flow,</l>
+               <l>Like Wealthy'ſt Rivers, Undiſturb'd and ſlow;</l>
+               <l>And ev'ry Day a Reſtauration prove,</l>
+               <l>A Conqueſt o're their Hearts, a Triumph in their Love!</l>
+               <l>May Peace, which went, and with Thee came again,</l>
+               <l>And all her lovely Sons adorn thy Reign!</l>
+               <l>May Wealth ſail in with ev'ry joyful Tide,</l>
+               <l>And, as juſt Tribute, all the World beſide</l>
+               <l>To Thee tranſmit her Luxury, and Pride!</l>
+               <l>May Learning raiſe it's long neglected Head,</l>
+               <l>May Wit in all it's Ancient Glory ſpread,</l>
+               <l>Learning, and Wit, like Loyal Plants, ſhall thrive,</l>
+               <l>Which only in the Royal Sunſhine live!</l>
+               <l>Tho Prieſts reſume their Old Blaſphemous Cant,</l>
+               <l>Aſperſe the King, and Curſe the Government:</l>
+               <l>Tho Patriots talk of Jealouſies, and Fears,</l>
+               <l>And Arbitrary Counſels fill all ears;</l>
+               <l>(If ſuch Impoſtures can again take place</l>
+               <l>From Rebells ſinning 'gainſt the Higheſt Grace!)</l>
+               <l>Yet may the Gods that lov'd <hi>Sicilia</hi> beſt,</l>
+               <l>That gave her <hi>Hiero,</hi> and that gave her Reſt,</l>
+               <l>May they outwatch the Malice of his Foes,</l>
+               <l>May they, in time, avert Her Threatning Woes!</l>
+               <l>And Thou, Dear Land! for whoſe Lov'd Sake alone</l>
+               <l>A Pit'ing Muſe has made her Weakneſs known,</l>
+               <l>With juſt Regard her wholeſom Words attend,</l>
+               <l>And weigh the Laſt Beſt Counſel of a Friend.</l>
+               <l>Return, return e're thou repent'ſt too late,</l>
+               <l>E're Heav'n again has ſign'd thy Woeful Fate;</l>
+               <l>A Worſe <hi>Agathocles</hi> may be behind,</l>
+               <l>But Heaven can ne'r ſo good an <hi>Hiero</hi> find.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
